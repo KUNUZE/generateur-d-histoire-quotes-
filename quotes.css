@@ -1,0 +1,19 @@
+body {
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+
+button {
+	font-size: 1.2rem;
+	padding: 1rem 2rem;
+	background-color: #4CAF50;
+	color: #fff;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+#quote {
+	font-size: 1.5rem;
+	margin-top: 2rem;
+}
